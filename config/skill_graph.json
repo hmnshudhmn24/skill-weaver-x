@@ -1,0 +1,20 @@
+{
+  "frontend developer": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React"
+  ],
+  "backend developer": [
+    "Python",
+    "Databases",
+    "APIs",
+    "Security"
+  ],
+  "data scientist": [
+    "Python",
+    "Statistics",
+    "Machine Learning",
+    "SQL"
+  ]
+}

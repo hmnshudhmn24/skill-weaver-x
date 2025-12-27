@@ -1,0 +1,9 @@
+{
+  "skills": [
+    "HTML",
+    "CSS"
+  ],
+  "target_role": "frontend developer",
+  "time_per_week": 10,
+  "difficulty": "beginner"
+}
