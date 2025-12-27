@@ -1,4 +1,4 @@
-# SkillWeaver-X 
+# Skill Weaver X 
 
 **SkillWeaver-X** is an advanced AI Learning & Career Architect that generates **dynamic, adaptive learning roadmaps** based on a user’s current skills, career goals, time availability, and market trends.
 
